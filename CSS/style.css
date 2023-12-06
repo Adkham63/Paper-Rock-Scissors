@@ -28,13 +28,13 @@ body {
 @media screen and (max-width:768px) {
     #opponent-choice{
         margin-top: 10px;
-        width: 140px;
-        height: 140px;
+        width: 80px;
+        height: 80px;
     }
     
     #your-choice{
         margin-top: 10px;
-        width: 140px;
-        height: 140px;
+        width: 80px;
+        height: 80px;
     }
 }
